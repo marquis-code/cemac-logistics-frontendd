@@ -130,7 +130,7 @@ fetchIPAddress();
 <style scoped>
 .background-image {
   position: relative;
-  background-image: url('@/assets/img/bg.jpg'); /* Update the path to your background image */
+  background-image: url('@/assets/img/home.jpg'); /* Update the path to your background image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

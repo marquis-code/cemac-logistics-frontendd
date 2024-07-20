@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/Users/marquis.abah/popHirs/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/Users/marquis.abah/cemac-logistics/CemacFrontend/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
